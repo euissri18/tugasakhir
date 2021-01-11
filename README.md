@@ -112,7 +112,7 @@ Ubah data
 
 Lihat data
 
-
+![es5](https://user-images.githubusercontent.com/72909071/104182216-b5d2d500-5442-11eb-8a56-f339ee7e6c63.png)
 
 
 Cari data
