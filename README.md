@@ -98,6 +98,7 @@ while True:
 
 Tambah data
 
+![es3](https://user-images.githubusercontent.com/72909071/104182189-a81d4f80-5442-11eb-87fc-8b0c9bcdf235.png)
 
 
 
