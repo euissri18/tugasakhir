@@ -1,4 +1,4 @@
-# tugasakhir
+# tugas-akhir UAS
 UAS Bahasa Pemrograman<br>
 Struktur Package & Module
 
@@ -122,7 +122,7 @@ Cari data
 
 Hapus data
 
-
+![es7](https://user-images.githubusercontent.com/72909071/104182235-bc614c80-5442-11eb-8dfe-816730d0739f.png)
 
 
 **Flowchart:**
