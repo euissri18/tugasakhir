@@ -1,6 +1,8 @@
 # tugasakhir
-##UAS Bahasa Pemrograman
+##UAS Bahasa Pemrograman<br>
 Struktur Package & Module
+
+![es2](https://user-images.githubusercontent.com/72909071/104182174-a18ed800-5442-11eb-8473-b4723d488e32.png)
 
 **Penjelasan:**
 
