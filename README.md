@@ -118,7 +118,7 @@ Lihat data
 Cari data
 
 
-
+![es6](https://user-images.githubusercontent.com/72909071/104182225-b9665c00-5442-11eb-817d-9e1b14918349.png)
 
 Hapus data
 
